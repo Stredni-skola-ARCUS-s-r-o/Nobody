@@ -1,1 +1,35 @@
+<style>
+        section {
+            width: 75vw;
+            height: 75vw;
+            background-color: blueviolet;
+            margin: 0 auto;
+        }
+    
+        div {
+            background-color: aqua;
+            float: left;
+            border: 1px solid black;
+            background-size: cover;
+            background-position: center;
+        }
+        .karta {
+            background-color:cornflowerblue;
+        }
 
+        #Uno {
+            background-color:aquamarine;
+            color:aquamarine;
+            text-align: left;
+            background-position: central;
+        }
+
+        #Uno:hover {
+            background-color:purple;
+            color:aquamarine;
+            font-style: italic;
+            background-size: cover;
+            text-align: center;
+            background-position: central;
+}
+    </style>
